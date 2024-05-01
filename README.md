@@ -27,6 +27,9 @@ To start the project, follow these steps:
 1. Clone this repository to your local machine.
 2. Run `docker-compose up --build` to create a Docker container for each microservice.
 3. API Gateway and microservices will start running on the specified ports.
+   
+![api-gateway-docker](https://github.com/OzlemKlc/API-Gateway/assets/122043812/7014317f-0cc3-49d1-87b9-0095f97d70b7)
+
 
 ## Used technologies
 
@@ -57,6 +60,9 @@ To use the API, follow these steps:
 1. Send a POST request to the `/v1/login` endpoint for student authentication.
 2. If the authentication is successful, you can access other API endpoints using the returned JWT token.
 3. Use the `/v1/query-tuition` or `/v1/banking/query-tuition` endpoints to query student payment information.
+
+![api-gateway-vscode](https://github.com/OzlemKlc/API-Gateway/assets/122043812/a9d71afb-17b5-4b3f-838c-c36b1d8cd6d9)
+
 
 ## Development
 
