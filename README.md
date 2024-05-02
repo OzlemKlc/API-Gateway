@@ -61,8 +61,7 @@ To use the API, follow these steps:
 2. If the authentication is successful, you can access other API endpoints using the returned JWT token.
 3. Use the `/v1/query-tuition` or `/v1/banking/query-tuition` endpoints to query student payment information.
 
-![api-gateway-vscode](https://github.com/OzlemKlc/API-Gateway/assets/122043812/a9d71afb-17b5-4b3f-838c-c36b1d8cd6d9)
-
+![api-gateway-vscode](https://github.com/OzlemKlc/API-Gateway/assets/122043812/ec3ae63f-599a-42bd-83d0-a4a5d69626f9)
 
 ## Development
 
